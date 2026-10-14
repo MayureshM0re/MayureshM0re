@@ -50,10 +50,10 @@ ROS2-integrated autonomous navigation system with AI-powered perception. Combine
 
 ## 📫 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mayureshmore)
-[![Email](https://img.shields.io/badge/Email-D14835?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayuresh.more@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mayureshmore.dev)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-FDEA8A?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/mayureshmore)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayureshmore4/?isSelfProfile=true)
+[![Email](https://img.shields.io/badge/Email-D14835?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mayureshmore54@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-4CAF50?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.mayureshmore.com)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-FDEA8A?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/mayuresh44)
 
 ---
 
